@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Intents</string>
+
+    <string-array name="actions">
+        <item>Browser</item>
+        <item>Make a call</item>
+        <item>Map</item>
+        <item>Play Music</item>
+        <item>SMS</item>
+        <item>Share</item>
+        <item>Alarm</item>
+        <item>Web Search</item>
+        <item>Settings</item>
+        <item>My Action 1</item>
+        <item>My Action 2</item>
+        <item>Exit</item>
+    </string-array>
+
+    <string name="intent_error">Action is not supported.</string>
+</resources>
